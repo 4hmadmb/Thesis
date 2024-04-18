@@ -15,7 +15,7 @@ In parallel, ACLED stands as a vital resource providing comprehensive data on po
 The Global Terrorism Database (GTD), covering incidents from 1970 to 2020 but streamlined to 1997-2020, and the Armed Conflict Location and Event Data Project (ACLED), encompassing data from 1997 to 2024. GTD focuses on terrorism-related incidents, while ACLED centers on armed conflict-related events. The analysis specifically targeted nearly three decades of attacks occurring within Nigeria, utilizing a combination of Excel, Microsoft Power BI, and Google Colab to generate insights into the patterns and dynamics of violence in the region. 
 
 Fatalies by States
-![image](https://github.com/4hmadmb/Thesis/assets/116957999/7fa56bd2-63ed-438a-ba59-5cea2e965e68)
+![Picture1](https://github.com/4hmadmb/Thesis/assets/116957999/7fa56bd2-63ed-438a-ba59-5cea2e965e68)
 ![image](https://github.com/4hmadmb/Thesis/assets/116957999/d9574503-aff4-41ad-9b4b-6d3f4c2aa904)
 
 Fatalities by Year
