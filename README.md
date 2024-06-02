@@ -1,6 +1,6 @@
 # Thesis
 
-Investigation and Insights into Terrorism in Nigeria.
+Uncovering Insights into Nigerian Terrorism through Data Analytics and Predictive Modelling.
 This research aims to develop a predictive model using machine learning techniques to analyze terrorism patterns and predict terrorist attacks’ success or failure. The proposed methodology involves data collection, preprocessing, exploratory data analysis, and machine learning model training and testing. The evaluation of model performance will provide insights into the effectiveness of various machine learning algorithms in predicting terrorism attacks success or failure.
 The study's findings will contribute to a deeper understanding of terrorism patterns and provide valuable insights for counterterrorism efforts. The predictive model developed in this research may aid in identifying and addressing emerging threats, ultimately enhancing Nigeria's counter-terrorism measures.
 
